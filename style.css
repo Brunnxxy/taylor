@@ -1,12 +1,12 @@
 body { 
   color: dodgerblue;
   background:blueviolet ;
-  padding: 0px;
+  margin: 0px;
 
 }
 
 header {  
  border-bottom: solid 1px white;
-
+ padding: 20px;
 
 }
